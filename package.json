@@ -1,0 +1,31 @@
+{
+    "name": "php-region",
+    "version": "0.0.1",
+    "publisher": "emandeguzman",
+    "displayName": "PHP region",
+    "description": "Adds one line region markers for PHP.",
+    "author": {
+        "name": "Eman de Guzman"
+    },
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Programming Languages",
+        "Formatters"
+    ],
+    "keywords": [
+        "folding",
+        "region",
+        "php folding",
+        "php region"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "php",
+            "aliases": ["", "php"],
+            "extensions": [".php"],
+            "configuration": "./language-configuration.json"
+        }]
+    }
+}
