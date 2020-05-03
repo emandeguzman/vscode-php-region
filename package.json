@@ -1,6 +1,6 @@
 {
     "name": "php-region",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "emandeguzman",
     "displayName": "PHP region",
     "description": "Adds one line region markers for PHP.",
@@ -24,8 +24,11 @@
         "languages": [{
             "id": "php",
             "aliases": ["", "php"],
-            "extensions": [".php"],
             "configuration": "./language-configuration.json"
         }]
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/emandeguzman/vscode-php-region"
+    }    
 }

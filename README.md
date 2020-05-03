@@ -14,4 +14,18 @@ and
     ...
     <!-- #endregion -->
 
+<br>
+<br>
+<br>
 
+# Repository
+
+https://github.com/emandeguzman/vscode-php-region
+
+<br>
+<br>
+<br>
+
+# License
+
+[GPL-2.0](https://github.com/emandeguzman/vscode-php-region/blob/master/LICENSE)
