@@ -1,11 +1,13 @@
 {
     "name": "php-region",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "emandeguzman",
     "displayName": "PHP region",
     "description": "Adds one line region markers for PHP.",
+    "icon": "images/php-region.png",
     "author": {
-        "name": "Eman de Guzman"
+        "name": "Eman de Guzman",
+        "email": "emandeguzman@gmail.com"
     },
     "engines": {
         "vscode": "^1.44.0"

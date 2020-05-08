@@ -2,8 +2,21 @@
 
 All notable changes to the "php-region" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [0.0.3]
 
-## [Unreleased]
+- Added php short tag "<?"
+
+  to allow region marker like
+
+       <? #region ?>
+       ...
+       <? #endregion ?>
+
+## [0.0.2]
+
+- Removed restriction to only be used on .php files
+
+
+## [0.0.1]
 
 - Initial release

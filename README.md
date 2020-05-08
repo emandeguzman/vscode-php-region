@@ -1,12 +1,18 @@
 # php-region Description
 
-Adds one liner folding region markers for php files.
+Adds one liner folding region markers for php codes.
 
 Added markers
 
     <?php #region ?>
     ...
     <?php #endregion ?>
+
+and 
+
+    <? #region ?>
+    ...
+    <? #endregion ?>
 
 and
 
